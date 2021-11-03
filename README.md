@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**Ghorbell/Ghorbell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <samp>I'am  Amine GHORBEL Full Stack Developer MERN JavaScript  </samp>
 
-Here are some ideas to get you started:
+### <samp> Find me on: </samp>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</a><a href="https://www.linkedin.com/in/amine-ghorbel" target="_blank">
+<img src="https://img.shields.io/badge/linkedin%20-%2314354C.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ghorbell" alt="Amine Ghorbel" /> </p>
+
+[![Ghorbell's github stats](https://github-readme-stats.vercel.app/api?username=Ghorbell&hide=stars,issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/SafaAlatrech/github-readme-stats) <br />
+
+### <samp>Skills </samp> :muscle:
+
+<!-- <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> -->
+<img src="https://img.shields.io/badge/reactjs%20-%23092E20.svg?&style=for-the-badge&logo=reactjs&logoColor=white"/> 
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
+<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> 
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
