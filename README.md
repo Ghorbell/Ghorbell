@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### <samp>I'am  Amine GHORBEL Full Stack Developer MERN JavaScript  </samp>
+### <samp>I am  Amine GHORBEL a Junior MERN Stack Developer </samp>
 
 ### <samp> Find me on: </samp>
 
