@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ghorbell" alt="Amine Ghorbel" /> </p>
 
-[![Ghorbell's github stats](https://github-readme-stats.vercel.app/api?username=Ghorbell&hide=stars,issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/SafaAlatrech/github-readme-stats) <br />
+[![Ghorbell's github stats](https://github-readme-stats.vercel.app/api?username=Ghorbell&hide=stars,issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Ghorbell/github-readme-stats) <br />
 
 ### <samp>Skills </samp> :muscle:
 
